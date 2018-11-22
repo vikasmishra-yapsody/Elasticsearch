@@ -1,0 +1,19 @@
+{
+  "name": "elastic-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasmishra-yapsody/Elasticsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikasmishra-yapsody/Elasticsearch/issues"
+  },
+  "homepage": "https://github.com/vikasmishra-yapsody/Elasticsearch#readme"
+}
